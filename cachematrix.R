@@ -2,7 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
-### makeCacheMatrix function generates a matrix of variable size when the number of rows and columns are added to the function
+
+## makeCacheMatrix function generates a matrix of variable size following the addition of number of rows and columns to the function
 
 makeCacheMatrix <- function(x = matrix()) {
  z <- NULL
